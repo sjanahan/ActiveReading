@@ -40,3 +40,7 @@ deal with a man who had fired Twenty Doctors?
 
 # Post reading
 ### 1. Come up with a few questions that you'd ask someone else to gauge how well they comprehended the text.
+1. What technique does Dr. Burns frequently use to deal with anxiety/depression/anger?
+
+2. What situations were described in the chapter? What are some situations in your own life where you can apply some of these responses to difficult situations?
+
