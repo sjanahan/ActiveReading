@@ -28,7 +28,19 @@ deal with a man who had fired Twenty Doctors?
 		4. Emphasize the importance of sticking togethe, in spite of these occasional disagreements.
 	Dr. Burns also used the double column tchnique for dealing with automatic thoughts after the patient, Hank, would call him at midnight and start haranguing him.
 
+####### Coping with Ingratitude: The Woman Who Couldn't Say Thank You -> How did Dr. Burns deal with a woman that couldn't express gratitude?
+	Dr. Burns had a patient who was hysterical about not being able to make the "right" choice about which college to attend. She called one day and told him she really needed some help, so he rearranged his schedule to consult with one of his colleagues. Dr. Burns then called her back and she was able to make a decision within 15 minutes. It doesn't say what technique he suggested to her. But afterward when he asked her if his techniques helped she claimed they were worthless and didn't thank him. Dr. Burns was initally miffed about the situation and became agitated. He used the double column technique to identify what was upsetting him. It was that when he makes an effort to help others, they SHOULD be grateful. That kind of thinking will upset you. It would be nice, but you can't expect it. Many times that is the case, but sometimes it won't. You can get satisfaction from yourself for a good effort, you need not wait for it from others.
+
+###### Coping with Uncertainty and Helplessness: The Woman Who Decided to Commit Suicide
+	Dr. Burns had a 20 year old patient who had attempted suicide many times. She was extremely hopeless. One day he came into his office and found she had slipped a morose 20 page letter about how depressed she was. He called her apartment to find that she had skipped town and left no clues about her whereabouts. She had done this before when she had attempted suicide. Dr. Burns felt anxious and angry, and used the double column technique to help his upsetness. He assumed she was dead somewhere. Through the double column exercise, he realizes that assuming she was dead was not helpful, he was not responsible for her suicide, his colleagues won't look down on him, and her parents may or may not be mad. He can only control his effort. He felt much better. It ended up that she was found unconscious in a motel 50 miles from Philadelphia. She was in pretty bad condition. It took another 11 months of treatment for her depression to break.
+
+
+
 ### 2. After a meaningful chunk, take the time to summarize the major points
 
 # Post reading
 ### 1. Come up with a few questions that you'd ask someone else to gauge how well they comprehended the text.
+1. What technique does Dr. Burns frequently use to deal with anxiety/depression/anger?
+
+2. What situations were described in the chapter? What are some situations in your own life where you can apply some of these responses to difficult situations?
+
