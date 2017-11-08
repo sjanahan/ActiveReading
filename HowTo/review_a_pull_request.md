@@ -17,12 +17,10 @@
 ### [] Does it run without modification?
 ### [] Read the code
 ###### 1. What parts of the code have been added/modified/deleted?
-* Added:
-    1. 
+* Added: 
 * Modified:
-    1. 
 * Deleted:
-    1. 
+
 ###### 2. What have you learned?
 
 ###### 3. What inputs should be tested/might be troublesome?
