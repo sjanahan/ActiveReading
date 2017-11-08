@@ -14,10 +14,10 @@ It looks like he will detail new situations that he's experienced, what his imme
 
 # During reading notes
 ### 1. Turn headers and sub-headers into questions. After a meaningful chunk, take the time to summarize the major points.
-######	1. How does Dr. Burns use his techniques in his own life?
+###### 1. How does Dr. Burns use his techniques in his own life?
 * Dr. Burns uses the double column technique on a sheet of paper on the train home to deal with nagging emotional hangovers
 
-######	2. How did Dr. Burns deal with a man who had fired Twenty Doctors?
+###### 2. How did Dr. Burns deal with a man who had fired Twenty Doctors?
 * Dr. Burns is treated a patient who had previously fired twenty doctors because they would not give him a physical diagnosis for his back pain. Dr. Burns saw him after he had already fired another psychiatrist. The patient was super angry, and would take it out him. The patient accused him of not caring about him, only caring about the money and his high success rate. Because there was a grain of truth to those accusations, Dr. Burns found himself feeling guilty, and the patient would pile on.
 * Dr. Burns used this four step approach:
 	1. Don't defend yourself, encourage them to say all the negative things
@@ -26,7 +26,7 @@ It looks like he will detail new situations that he's experienced, what his imme
 	4. Emphasize the importance of sticking together, in spite of these occasional disagreements.
 * Dr. Burns also used the double column tchnique for dealing with automatic thoughts after the patient, Hank, would call him at midnight and start haranguing him.
 
-####### 3. How did Dr. Burns deal with a woman that couldn't express gratitude?
+###### 3. How did Dr. Burns deal with a woman that couldn't express gratitude?
 * Dr. Burns had a patient who was hysterical about not being able to make the "right" choice about which college to attend. She called one day and told him she really needed some help, so he rearranged his schedule to consult with one of his colleagues. Dr. Burns then called her back and she was able to make a decision within 15 minutes. It doesn't say what technique he suggested to her. But afterward when he asked her if his techniques helped she claimed they were worthless and didn't thank him. Dr. Burns was initally miffed about the situation and became agitated. He used the double column technique to identify what was upsetting him. It was that when he makes an effort to help others, they SHOULD be grateful. That kind of thinking will upset you. It would be nice, but you can't expect it. Many times that is the case, but sometimes it won't. You can get satisfaction from yourself for a good effort, you need not wait for it from others.
 
 ###### 4. How did Dr. Burns deal with a patient who attempted suicide while under his care?
