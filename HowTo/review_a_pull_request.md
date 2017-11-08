@@ -1,7 +1,5 @@
 # YYYYMMDD_branch-name
 
-# 20171108_feature/gen-data by Donato
-
 ## Pre-Review
 ### What will this Pull Request do?
 
@@ -12,7 +10,6 @@
 ### Are there any Pull Requests open in other repos which need to be merged with this?
 
 ### What issues does this address? (Please link tickets)
-
 
 ## Review
 ### [] Pull down the code from the branch
