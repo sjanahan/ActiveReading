@@ -27,7 +27,7 @@
 
 ###### 4. Any code smells?
 ### [] Run the unit tests
-### [] Run the behave tests
+### [] Run the integration tests
 
 ## Post-Review
 ### What did you think of the PR overall?
