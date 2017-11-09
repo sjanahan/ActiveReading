@@ -11,9 +11,14 @@
 
 ### What issues does this address? (Please link tickets)
 
+### Does the PR name match the standard?
+
+### Is the commit history squashed?
+
 ## Review
 ### [] Pull down the code from the branch
 ### [] Does it start/compile without modification?
+### [] Is it style compliant? (PEP8/Google/...)
 ### [] Read the code
 ###### 1. What parts of the code have been added/modified/deleted?
 * Added: 
