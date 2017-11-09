@@ -28,6 +28,8 @@
 ###### 4. Any code smells?
 ### [] Run the unit tests
 ### [] Run the integration tests
+### [] Run the integration tests
+### [] Run the coverage tests
 
 ## Post-Review
 ### What did you think of the PR overall?
