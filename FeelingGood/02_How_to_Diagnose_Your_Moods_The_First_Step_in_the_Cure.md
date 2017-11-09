@@ -27,8 +27,8 @@ They discuss what to do with the results
 
 1. How can you measure how depressed you are?
 
-Using the Beck Depression Index
+* Using the Beck Depression Index
 
 2. How can you use the BDI as a tool in your mood toolbox?
 
-You can use it as you would a scale or measurements during weight loss to track your mood's progress over time
+* You can use it as you would a scale or measurements during weight loss to track your mood's progress over time
