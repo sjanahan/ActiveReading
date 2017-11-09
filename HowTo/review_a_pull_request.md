@@ -13,8 +13,7 @@
 
 ## Review
 ### [] Pull down the code from the branch
-### [] Run the code
-### [] Does it run without modification?
+### [] Does it start/compile without modification?
 ### [] Read the code
 ###### 1. What parts of the code have been added/modified/deleted?
 * Added: 
@@ -26,8 +25,8 @@
 ###### 3. What inputs should be tested/might be troublesome?
 
 ###### 4. Any code smells?
+### [] Manually test the code
 ### [] Run the unit tests
-### [] Run the integration tests
 ### [] Run the integration tests
 ### [] Run the coverage tests
 
