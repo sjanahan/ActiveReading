@@ -15,6 +15,7 @@ Seems to go over what is bipolar, what is depression, what do we know about the 
 * What are the ethical dilemmas of it? 
 * Some people believe prozac is that pill, but it isn't. 
 * Some people do not respond well to it, some do, but incompletely. We do not know how the brain and emotions are connected fully. Why are some people prone to negative thinking while others are eternal optimists? Is it genetic? Is it learned? We'll cover the these questions as well as the current solutions for the body in this chapter.
+* Black bile is just some name for a physical substance that may cause depression
 
 ###### Do Genetics or Environment Play a Greater Role in Depression? 
 * Bipolar is highly correlated with genetics. If one identical twin has it, there's a 50-75% chance the other one will develop it. If there are nonidentical twins, that is closer to 15-25%. If someone in the family has it, that number goes down to 10%. If someone in the family doesn't have it, it's closer to 1%. For garden variety depression, it isn't so clear. 
