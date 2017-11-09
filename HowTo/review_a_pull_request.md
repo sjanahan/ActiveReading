@@ -11,10 +11,14 @@
 
 ### What issues does this address? (Please link tickets)
 
+### Does the PR name match the standard?
+
+### Is the commit history squashed?
+
 ## Review
 ### [] Pull down the code from the branch
-### [] Run the code
-### [] Does it run without modification?
+### [] Does it start/compile without modification?
+### [] Is it style compliant? (PEP8/Google/...)
 ### [] Read the code
 ###### 1. What parts of the code have been added/modified/deleted?
 * Added: 
@@ -26,8 +30,10 @@
 ###### 3. What inputs should be tested/might be troublesome?
 
 ###### 4. Any code smells?
+### [] Manually test the code
 ### [] Run the unit tests
 ### [] Run the integration tests
+### [] Run the coverage tests
 
 ## Post-Review
 ### What did you think of the PR overall?
