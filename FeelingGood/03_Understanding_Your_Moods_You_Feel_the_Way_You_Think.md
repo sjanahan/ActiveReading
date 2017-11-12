@@ -44,7 +44,7 @@ He goes on to list those distortions. The chapter ends with a quiz to help the r
 		* Mind Reading - Suppose someone fails to respond to your email and you assume that they didn't because "they don't like you". You don't know unless you ask!
 		* Fortune Teller Error - You imagine that something bad is about to happen, and you take this prediction as a fact even though it is unrealistic. Suppose you tell yourself, "I can't handle this." Of course you can, you're doing it right now.
 6. Magnification and Minimization
-	* Maginification commonly occurs when you look at your own errors, fear, or imperfections and exaggerate their importance
+	* Magnification commonly occurs when you look at your own errors, fear, or imperfections and exaggerate their importance
 	* Minimization commonly occurs when you look at your strengths and deem them small or unimportant
 7. Emotional Reasoning
 	* You take your emotions as evidence for truth
