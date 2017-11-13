@@ -6,10 +6,15 @@
 ### Why is this Pull Request needed?
 
 ### What's the one goal of this PR?
+
 []Code Cleaning
+
 []Code Refactoring
+
 []Bugfixing
+
 []Adding a feature
+
 ###### No-no’s
 * Change tabs to spaces and fixing a typo
 * Adding a feature and refactoring old code
