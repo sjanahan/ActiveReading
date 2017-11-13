@@ -14,8 +14,8 @@
 ### What issues does this address? (Please link tickets)
 
 ### Does the PR name match the standard?
-[] Name includes ticket number
-[] Name is categoried in path. For example: feature/BIG-1265
+  1. [] Name includes ticket number
+  2. [] Name is categoried in path. For example: feature/BIG-1265
 
 ### Is the commit history squashed?
 
