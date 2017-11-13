@@ -5,20 +5,7 @@
 
 ### Why is this Pull Request needed?
 
-### What's the one goal of this PR?
-
-[]Code Cleaning
-
-[]Code Refactoring
-
-[]Bugfixing
-
-[]Adding a feature
-
-###### No-no’s
-* Change tabs to spaces and fixing a typo
-* Adding a feature and refactoring old code
-* Refactoring for performance and fixing a bug
+### What's the *one* goal of this PR? (cleaning/refactoring/feature/bugfix)
 
 ### Are there any points in the code the reviewer needs to double check?
 
@@ -28,7 +15,7 @@
 
 ### Does the PR name match the standard?
 [] Name includes ticket number
-[] Name is categoried in path ex. feature/BIG-1265
+[] Name is categoried in path. For example: feature/BIG-1265
 
 ### Is the commit history squashed?
 
