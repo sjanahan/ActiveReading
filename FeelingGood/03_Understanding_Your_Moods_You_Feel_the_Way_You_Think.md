@@ -22,7 +22,8 @@ He goes on to list those distortions. The chapter ends with a quiz to help the r
  "World Events, Thoughts, and Feelings")
 * You must understand what is happening to you before you can feel it!
 * When you are depressed, you possess the remarkable ability to believe, and to get the people around you to believe, things which have no basis in reality
-##### 2. What are they distortions we experience when we are Depressed?
+
+###### 2. What are they distortions we experience when we are Depressed?
 1. All or Nothing Thinking
     * Forms the basis for perfectionism
 	* It causes you to fear mistakes or imperfection because you will then see yourself as a complete loser, and you will feel inadequate and worthless
