@@ -37,7 +37,7 @@ Agreeing in principle to criticism can be effective in "taking the wind" out of 
 * Once you can deal with those automatic thoughts, you will have more mental energy for turning the criticism into action items to improve your process
 * If people criticize you, they can either be right or wrong
 	* If they are wrong, there is nothing for you to be upset about
-		* Why should you be disturbed if someone else makes the mistake of criticizing you in an injust manner? That;s the other guy's error, not yours. Why upset yourself? Do you expect that other people would be perfect?
+		* Why should you be disturbed if someone else makes the mistake of criticizing you in an injust manner? That's the other guy's error, not yours. Why upset yourself? Do you expect that other people would be perfect?
 	* If they are right, there is still no need to be overwhelmed
 		* You're not expected to be perfect
 		* Acknowledge your error and take whatever steps you can to correct it
@@ -58,7 +58,7 @@ Agreeing in principle to criticism can be effective in "taking the wind" out of 
 		* This tends to difuse anger and hostility and introduces a problem-solving oritenting in the place of blame casting or debate
 		* Even if you feel that the criticism is _totally_ injust, respond with empathy by asking questions
 2. Disarming the critic
-	* Whether your critic is right or wrong, intially find osme way to agree with them
+	* Whether your critic is right or wrong, intially find some way to agree with them
 	* Let's pretend they are right
 		* You can respond with, "You're absolutely right", and reiterate their point
 	* Let's pretend they are wrong and unfair and invalid
@@ -91,7 +91,7 @@ Agreeing in principle to criticism can be effective in "taking the wind" out of 
 		* You're essentially burning bridges here
 
 ###### 3. How can I handle hecklers?
-* This is specific to those who lecture or teach
+* This is specific to those who lecture or teach or present
 * The heckler usually have the following characteristics
 	1. Intensely critical, but seem inaccurate or irrelevant to the material presented
 	2. Often comes a person who is not well accepted or regarded among their peers
@@ -111,13 +111,13 @@ Agreeing in principle to criticism can be effective in "taking the wind" out of 
 		* You then magnify the importance of the criticism with a series of thinking errors
 		* You might overgeneralize and wrongly conclude your whole life is a series of errors
 		* You might label yourself as a "total goof-up"
-		* Your perfectionist expectation of yourself to feel that you are "worthless", which will lead to depression and a loss of self-esteem
+		* Your perfectionist expectation leads yourself to feel that you are "worthless", which will lead to depression and a loss of self-esteem
 	2. Mad
 		* You stubbornly refuse to admit there is a possibilty you are imperfect because that would mean you are worthless
 		* You hurl insults at the critic, which feels good temporarily
-		* You're well on your way to poisoning the relationship
+		* You're well on your way to poisoning that relationship
 	3. Glad
-		* This requires that you have self-esteem or at least act like you do
+		* This requires that you already have self-esteem or at least can act like you do
 		* It is based on the premise that you are a worthwhile human and have no need to be perfect
 		* When you are criticized, your initial response is __investigative__
 			* Does the criticism contain a grain of truth?

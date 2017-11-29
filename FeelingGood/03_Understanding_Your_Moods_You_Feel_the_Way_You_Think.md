@@ -18,8 +18,7 @@ He goes on to list those distortions. The chapter ends with a quiz to help the r
 * Depression is not an emotional disorder
 * Illogical pessimistic attitudes play a central role in the development and continuation of your symptoms
 * Every time you feel depressed, try to identify the negative automatic thought that preceded it. By learning to restructure those thoughts, you can change your mood.
-* !["World Events, Thoughts, and Feelings"]()
- "World Events, Thoughts, and Feelings")
+* !["World Events, Thoughts, and Feelings"]("World Events, Thoughts, and Feelings")
 * You must understand what is happening to you before you can feel it!
 * When you are depressed, you possess the remarkable ability to believe, and to get the people around you to believe, things which have no basis in reality
 
