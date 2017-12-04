@@ -43,7 +43,66 @@ Some practical techniques one can use to combat feelings of guilt
 		* Duration
 		* Consequences of your negative emotion
 		* Example: TODO insert example here
-####### The Guilt Cycle -> What is the Guilt Cycle?
-	* 
+###### The Guilt Cycle -> What is the Guilt Cycle?
+	* The Guilt cycle is once you feel guilty, you may become trapped in an illusion that makes the guilt appear valid
+        * You reason
+          1. I feel guilty and worthy of condemnation. This means I've been bad
+          2. Since I'm bad, I deserve to suffer
+        * Your initial guilt convinces you of your badness and ultimately leads to more guilt
+        * This is a textbook case of emotional reasoning (distortion #?)
+        * Your self-loathing doesn't necessarily prove you've done anything wrong
+        * Your guilt only reflects the fact that you __believe__ you have behaved badly
+        * This might be the case, but often it is not 
+          * Example: children are frequently punished inappropriately when parents are feeling tired and irritable and misinterpret their child's behavior
+        * Many people believe that guilt is to their advantage because it'll be the fire that lights their motivation, but the opposite is true
+        * Feeling guilty is extremely emotionally draining
+        * Feeling guilty can reinforce the inappropriate labels that one feels about themselves
+###### The Irresponsibility of Guilt -> What makes feeling guilty an irresponsible emotion?
+        * Ponder this: 
+          * I 100% did something inappropriate or hurtful            
+          * Does it follow that you deserve to suffer?
+          * If yes, for how long? One day? One year? What sentence are you willing to impose on yourself?
+          * Are you willing to stop the suffering after you've finished your sentence?
+          * This would at least be a responsible way of approaching it
+          * Many times, we don't even think about this
+        * What advantage do we gain from abusing ourselves with guilt?
+          * It won't reverse the mistake in any meaningful way
+          * It won't speed up the learning process so you reduce the chance of repeating the mistake
+          * Other people don't love or respect us more because you are feeling guilty and putting yourself down
+        * Many people ask, "But how could I behave morally and control my impulses if I don't feel guilt?
+        * The above question is a probation officer approach to life
+        * Do you view yourself as so willfull and uncontrollable that you must constantly berate yourself in order to keep from going wild?
+        * It never helped anyone to view themselves as a __bad__ person
+        * Change and learning most readily occur when:
+          1. We recognize that an error has occured
+          2. We develop a strategy for correcting the problem. An attitude of self-love and relaxation facilitates this, whereas guilt often interferes
+        * Try replacing your guilt with empathy
+        * Empathy gives you the necessary mental and emotional climate to guide guide your behavior in a moral and self-enhancing manner
+###### How can I determine if I am feeling healthy remorse or distorted guilt?
+        1. Did I consciously and willfully do something "bad", "unfair", or needlessly hurtful that I shouldn't have? Or am I irrationally expecting myself to perfect, all-knowing, or all-powerful?
+        2. Am I labeling myself a __bad__ or __tainted__ person because of this action? Do my thoughts contain distortions such as magnification, overgeneralization, etc.?
+        3. Am I feeling realistic regret or remorse, which results from an empathetic awareness of the negative impact of my action?
+        4. Am I learning from my error and developing a strategy for change, or am I moping and ruminating nonproductively or even destructively
+###### What are some practical things I can do to deal with my feelings of guilt?
+        1. Daily Record of Dysfunctional Thought
+        2. Should Removal Techniques
+        3. Wrist Counter Method
+        4. Obsessional-filibuster technique from Chapter 4
+        5. 
+        6. Ask yourself "Why should I?" to expose cognitive distortions in your thinking
+###### Learn to stick to your guns -> How can removing guilt stop others from manipulating me?
+        * If you feel obligated to please everyone, family and friends can easily coerce you into doing things that are not in your best self interest
+        * For example, how many social invitations have you halfheartedly accepted so as to not hurt someone's feelings?
+        * How can we practically stick to our guns?
+          1. Remind the other party it is our right not to say yes to all demands made of us
+          2. Find a grain of truth (to disarm) the other party
+          3. Adopt a strong, decisive and uncompromising position as tactfully as possible
+          4. Don't buy into anyone's role of weakness or inadequacy
+          5. Do not respond to anger by getting angry yourself
+          6. You have to be okay with hte risk that the other party will temporarily withdraw
+        * Remember, the hurt you inflict in the long term by not following your best self-interest is far greater than the temporary hurt of not giving into other's demands
+###### The Antiwhiner Technique -> What is the Antiwhiner Technique?                                        
+             
 # Post reading
 ### 1. Come up with a few questions that you'd ask someone else to gauge how well they comprehended the text.
+        
