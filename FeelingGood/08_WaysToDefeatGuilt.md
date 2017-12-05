@@ -102,7 +102,56 @@ Some practical techniques one can use to combat feelings of guilt
           6. You have to be okay with hte risk that the other party will temporarily withdraw
         * Remember, the hurt you inflict in the long term by not following your best self-interest is far greater than the temporary hurt of not giving into other's demands
 ###### The Antiwhiner Technique -> What is the Antiwhiner Technique?                                        
-             
+        * A technique you can use given this situation:
+          * A loved one makes you feel frustrated, guilty, and helpless through whining, complaining, and nagging
+        * The typical cycle looks like:
+          1. The whiner complains to you about something or someone
+          2. You feel the sincere desire to be helpful, so you make a suggestion
+          3. The person immediately squashes your suggestion and complains again
+          4. You feel tense and inadequate, so you try harder and make another suggestion
+          5. You get the same response
+          6. Anytime you try to break loose from the conversation, the other person implies he or she is being abandoned, and you are flooded with guilt
+        * The steps to breaking the cycle
+          1. Agree with the whiner(disarming them)
+          2. Instead of offering advice, say something genuinely complimentary
+        * Why does this work?
+          * The whiner is generally feeling overwhelmed, irritated, or insecure
+          * When you offer a suggestion, it appears to them as criticism because it implies they aren't handling the situation adequately
+          * When you agree with them and add a compliment, they feel endorsed, then relaxed, then quiet down
+###### The Moorey Moaner Method -> What is the Moorey Moaner Method?
+        * A modification of the Antiwhiner Technique
+        * Agree with what the person is saying (even if only in principle)
+        * Distract the moaner by finding something positive in the complaint and commenting on it
+###### Developing Perspective -> How can I develop perspective?
+        * One distortion that is pervasively associated with guilt is personalization
+        * An obvious example would be your sense of guilt when it rained unexpectedly on the day of a picnic you have organized to honor the retiring president of your club
+        * Guilt can be more difficult when someone suffers substantial pain and discomfort and insists is result from their personal interaction with you
+        * It can helpful to clarify the extent to which you can realistically assume responsibility
+        * Where does your responsibility end and theirs begin?
+        * The technical term here is "disattribution"
+        * Can use the triple column technique (or double) to deal with your troubling automatic thoughts and find the distortions in them
+                            
+
 # Post reading
 ### 1. Come up with a few questions that you'd ask someone else to gauge how well they comprehended the text.
+* What is guilt?
+
+* What is remorse?
+
+* What is the difference between guilt and remorse?
+
+* What are some common distortions associated with feelings of guilt?
+
+* Why can feeling guilty be seen as irresponsible?
+
+* What is the guilt cycle?
+
+* What is a practical technique we can use to determine whether we are feeling guilty or remorseful?
+
+* How can others use your predisposition to guilt to manipulate you?
+
+* What are 6 practical techniques one can use when they're feeling guilty?
+
+         
+        
         
