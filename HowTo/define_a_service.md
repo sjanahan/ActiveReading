@@ -1,6 +1,6 @@
 # Service Name
 > Short description of the service and what is solves
-> Owner: <Example> Team
+  Owner: <Example> Team
 
 [Lucid chart of service architecture]()
 
