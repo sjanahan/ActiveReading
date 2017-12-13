@@ -37,6 +37,7 @@ Detail the different interaction points for the service. If it offers one or mor
 * Internal API : TBD
 
 ## Example-topic
+
 ```
 FeatureChangeEvent {
     "account_id": "xyz",
