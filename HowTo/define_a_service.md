@@ -24,7 +24,7 @@ Detail the different interaction points for the service. If it offers one or mor
 
 # SLA's
 |SLA|External API|Internal API|
-|---|____________|------------|
+|---|------------|------------|
 |Concurrency|10 req/s|10 req/s|
 |95% Latency|50 ms|50ms|
 |100% Latency|500ms|500ms|
@@ -36,14 +36,14 @@ Detail the different interaction points for the service. If it offers one or mor
 * External API : https://github.com/<company>/<service>/blob/develop/swagger.yaml
 * Internal API : TBD
 
-## Example-topic
+## Example Topic
 
 ```
-FeatureChangeEvent {
-    "account_id": "xyz",
-    "site_ids": ["a","b"],
-    "type": "feature_change"
-}
+   FeatureChangeEvent {
+       "account_id": "xyz",
+       "site_ids": ["a","b"],
+       "type": "feature_change"
+   }
 ``` 
 
 ## Resources
