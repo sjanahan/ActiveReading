@@ -7,7 +7,7 @@
 
 ### Why is this Pull Request needed?
 
-### What's the *one* goal of this PR? (cleaning/refactoring/feature/bugfix)
+### What's the *one* goal of this PR? (cleaning/refactoring/feature/bugfix/experiment)
 
 ### Are there any points in the code the reviewer needs to double check?
 
@@ -17,9 +17,11 @@
 
 ### Does the PR name match the standard?
   1. [] Name includes ticket number
-  2. [] Name is categoried in path. For example: feature/BIG-1265
+  2. [] Name is categorized in path. For example: feature/BIG-1265
 
 ### Is the commit history squashed?
+
+### Is it rebased off of `develop`?
 
 ## Review
 ### [] Pull down the code from the branch
