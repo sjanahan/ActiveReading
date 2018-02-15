@@ -19,9 +19,9 @@ _Founder_                                                          June 2015 - M
 * Researched and selected database technology for real-time and historical equity options
 market execution search engine
 * Designed a scalable, cloud-based API to support 5,000 concurrent users
-● Prototyped and developed full stack Tinder-like mobile app for iOS using React Native
-● Retrofitted AngularJS web application for accepting payments using Stripe
-● Created original content and presented to VCs, brokerages, and larger audiences
+* Prototyped and developed full stack Tinder-like mobile app for iOS using React Native
+* Retrofitted AngularJS web application for accepting payments using Stripe
+* Created original content and presented to VCs, brokerages, and larger audiences
 
 ####  Factset Research Systems, Norwalk, CT
 _Risk Analytics Software Engineer_                                   June 2012 - June 2015
